@@ -1,0 +1,35 @@
+[
+   {
+      "id":1,
+      "market":"USD-BTC",
+      "logo":"https://cryptologos.cc/logos/ravencoin-rvn-logo.png?v=003",
+      "currency":"BITCOIN",
+      "volume":3923346423.76,
+      "chance":-8.1,
+      "lastPrice":3923.19990000,
+      "24hrHigh":3923.19990000,
+      "24hrLow":3923.19990000,
+   },
+   {
+      "id":2,
+      "market":"USD-BTC",
+      "logo":"https://cryptologos.cc/logos/ravencoin-rvn-logo.png?v=003",
+      "currency":"BITCOIN",
+      "volume":3923126423.76,
+      "chance":-2.1,
+      "lastPrice":3923.19990000,
+      "24hrHigh":3923.19990000,
+      "24hrLow":3923.19990000,
+   },
+   {
+      "id":73,
+      "market":"USD-LTC",
+      "logo":"https://cryptologos.cc/logos/ravencoin-rvn-logo.png?v=003",
+      "currency":"LTC",
+      "volume":3953126423.76,
+      "chance": 7.1,
+      "lastPrice":3923.1999,
+      "24hrHigh":3923.1999,
+      "24hrLow":3923.1999,
+   }
+]
